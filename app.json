@@ -1,0 +1,6 @@
+{
+  "name": "Agile and Rails Magazine",
+  "description": "Yet Another aggregation web service for Agile and Rails",
+  "repository": "https://github.com/yuchan/agile_and_rails",
+  "keywords": ["rails", "agile"]
+}
